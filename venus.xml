@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="fwtechn/device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" remote="github" revision="thirteen" />
+<project name="fwtechn/device_xiaomi_venus" path="device/xiaomi/venus" remote="github" revision="thirteen" />
+<project name="fwtechn/kernel_xiaomi_venus" path="kernel/xiaomi/venus" remote="github" revision="thirteen" />
+<project name="fwtechn/vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" remote="github" revision="thirteen" />
+<project name="jjpprrrr/vendor_xiaomi_venus" path="vendor/xiaomi/venus" remote="github" revision="thirteen" />
+<project name="fwtechn/vendor_xiaomi_venus-firmware" path="vendor/xiaomi/venus-firmware" remote="github" revision="master" />
+<project name="fwtechn/vendor_xiaomi_googlecamera" path="vendor/xiaomi/googlecamera" remote="github" revision="master" />
+</manifest>
